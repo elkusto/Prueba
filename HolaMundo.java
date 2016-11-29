@@ -1,4 +1,4 @@
-package ejercicio1;
+﻿package ejercicio1;
 
 /**
  * Created by curso mañana on 28/11/2016.
@@ -6,7 +6,7 @@ package ejercicio1;
 public class HolaMundo {
     
     public static void main(String[] args){
-        System.out.println("Hola"+ args[0]);
+        System.out.println("Hola"+ args[0] + "hora de hacer merge");
     }
     
     
